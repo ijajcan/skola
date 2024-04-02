@@ -1,1 +1,1 @@
-Ovaj repository ću koristiti za školu
+Ovaj repository ću koristiti za školu.
